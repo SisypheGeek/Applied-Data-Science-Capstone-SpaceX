@@ -1,3 +1,3 @@
-# Applied-Data-Science-Capstone-W1
+# Applied-Data-Science-Capstone
 DataScience Pro Certificate w1
 ## Editing File
